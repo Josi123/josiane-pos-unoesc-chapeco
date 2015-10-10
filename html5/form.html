@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Html5</title>
+<meta charset="utf-8" >
+<style>
+    .menu li{ display: inline-block}
+</style>    
+</head>
+<body>
+   <form     
+            <input type="email" />    
+            <input type="search" value=""/>    
+            <input type="tel" value=""/>    
+            <input type="url" pattern="https?://.+" required autofocus />  
+            <input type="submit" value="Enviar" />    
+            <input type="submit" value="Cancelar" /> 
+            <input name="meu_numero" type="number" value="12.4" step="1.2" min="0" max="20" /> 
+            <input name="color" type="color" value="12.4"  /> 
+            
+            <textarea>blabla</textarea>
+</form>
+    
+<form>
+    <label for="CEP">CEP:
+        <input name="CEP" id="CEP" required pattern="\d{5}-?\d{3} oninput="javasccript:console.log(input);" />  
+    </label>
+    <input type="submit" value="Enviar" formnovalidate/>
+    
+</form>
+      
+
+</body>
+</html>
+
+
+
+

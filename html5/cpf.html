@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Html5</title>
+<meta charset="utf-8" >
+
+    <script src="cpf.js"></script>
+    <script>
+        function vCPF(input){
+        var mensagem = "";
+            if (!validaCPF(input.value)){
+                mensagem = 'CPF invalido!';
+            }
+            input.setCustomValidity(mensagem);
+        }
+    </script>
+</head>
+<body>
+   
+<form>
+    <label for="cpf">CPF:
+        <input name="cpf" oninput="cCPF(this)" required pattern="" />  
+        <input type="submit" value="Enviar" />
+    </label>
+    
+    
+</form>
+      
+
+</body>
+</html>
+
