@@ -18,7 +18,7 @@ No principio tudo começa pelo menor componente o  átomo.<br />
 São os menores componentes do sistema, aqueles que não podem ser dividos e que se juntam para formar uma molécula. Pensando em linguagem de marcação os átomos são as menores tags disponíveis, aquelas que não necessitam de um contexto para existir, como inputs, botões, parágrafos, títulos...
 A partir do conjunto dessas tags soltas formam-se blocos maiores, as moléculas.<br />
 #####Moléculas
-Consiste no agrupamento dos átomos. Que existem soltos, porém sendo apenas átomos não possuem nenhum proposito, já quando agrupado terão uma finalidade, como por exemplo os campos de input, label e um botão, isolados não fazem nada, mas juntos formam um formulário.
+Consiste no agrupamento dos átomos. Que existem soltos, porém sendo apenas átomos não possuem nenhum proposito, já quando agrupados terão uma finalidade, como por exemplo os campos de input, label e um botão, isolados não fazem nada, mas juntos formam um formulário.
 #####Organismos<br />
 E por fim temos um conjunto de moléculas que formam os organismos. Podemos pensar em organismos como sendo as seções dentro de um pagina web, como por exemplo, o rodapé e o cabeçalho. O rodapé pode ser visto como um organismo, formado por moléculas que é um conjunto de átomos (imagem, links, parágrafos...).
 Depois de der o organismos formados os sistema já começa a ganhar forma.<br />
