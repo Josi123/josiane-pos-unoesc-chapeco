@@ -25,7 +25,7 @@ Depois de der o organismos formados os sistema já começa a ganhar forma.<br />
 #####Template<br />
 É formado pelo conjunto dos organismos, e nessa etapa já teremos a diagramação dos elementos do nosso sistema.  Aqui é possível desenvolver um wireframe  e ter a visão final de como o site.<br />
 #####Páginas<br />
-Essa é a etapa final do atomic designer e é onde a paginas web é lapida. Recebe cores e formatos e interação com o usuário.<br />
+Essa é a etapa final do atomic designer e é onde a paginas web são lapidas. Recebe cores e formatos e interação com o usuário.<br />
 #####3) Para que usar
 Pode-se criar um mini framework, facilitando o reuso de estilização de tags dentro de um sistema, melhorando o processo de desenvolvimento.
 #####4) Onde usar?
