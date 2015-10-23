@@ -11,7 +11,7 @@ Porém veio com isso projetos que exigem mais tempo para serem concluídos, pois
 
 
 #####1) O que é?
-Metodologia criada pelo webdesigner Brad Frost para abranger todo um processo de desenvolvimento de sistema para web ou site, facilitando a visualização do projeto por todos os membros, desde o cliente. Baseia-se na ideia de que não se desenvolve apenas páginas para a web, mas uma espécie organismo (sistema) formado por átomos, moléculas formando um organimos.  Sim, a ideia é mesma que a explicada nas aulas de química, aonde átomo dever ser compreendido como o menor componente do sistema, moléculas é um conjunto de átomos, e o organismo é tudo isso junto e organizado.
+Metodologia criada pelo webdesigner Brad Frost para abranger todo um processo de desenvolvimento de sistema para web ou site, facilitando a visualização do projeto por todos os membros, desde o cliente. Baseia-se na ideia de que não se desenvolve apenas páginas para a web, mas uma espécie organismo (sistema) formado por átomos, moléculas formando um organimo.  Sim, a ideia é mesma que a explicada nas aulas de química, aonde átomo dever ser compreendido como o menor componente do sistema, moléculas é um conjunto de átomos, e o organismo é tudo isso junto e organizado.
 #####2) Como funciona
 No principio tudo começa pelo menor componente o  átomo.<br />
 #####Átomo<br />
