@@ -250,6 +250,6 @@ seletor { propriedade: calc(expressão matemática); }
 ```
 ### Referencia:
 http://tableless.com.br/tag/css3/
-http://www.w3schools.com/css/css3_animations.asp
-http://www.w3schools.com/css/css3_transitions.asp
+http://www.w3schools.com/css/css3_animations.asp<br />
+http://www.w3schools.com/css/css3_transitions.asp<br />
 http://www.maujor.com/tutorial/guia-completo-seletores-css3.php
